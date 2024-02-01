@@ -1,2 +1,2 @@
-# Brute-forcing
-Tool for Brute forcing login through the Authorization header
+# Brute forcing tools
+
